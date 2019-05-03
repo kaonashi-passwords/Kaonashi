@@ -1,6 +1,6 @@
-# Kaonashi rules
+## Kaonashi rules
 
-Current version: 20190503
+![current version 20190503](https://img.shields.io/badge/current%20version-20190503-blue.svg)
 
 There are three families of rules:
 
