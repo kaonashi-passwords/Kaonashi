@@ -3,11 +3,13 @@
 </p>
 
 ## Kaonashi Project: RootedCON 2019
+![helo](https://img.shields.io/badge/current%20version-20190503-blue.svg)
+
 This repository contains several directories: <br>
 
  * Sorted ***Masks*** for hashcat
  * Advanced ***Rules*** for hashcat
- * Links and torrent files to download the Kaonishi's ***Wordlists***
+ * Links to download the Kaonishi's ***Wordlists***
  * ***Slides*** used in our talk [I know your p4$$w0rd (and if I don't, I will guess it...](https://www.slideshare.net/segofensiva/i-know-your-p4w0rd-and-if-i-dont-i-will-guess-it-139829304) at [RootedCON (2019)](https://rootedcon.com/) 
 
 __*A clone may not be necessary to get the files you need*.__ <br>
