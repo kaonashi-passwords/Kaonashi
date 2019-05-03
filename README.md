@@ -29,8 +29,9 @@ These wordlist has been extracted from real password leaksa, and sorted by numbe
 
 For our study, we created the original wordlist and two additional ones:
 
- * [Kaonashi14M](): top 14 million passwords (same size as RockYou.txt for comparation)
- * [KaonashiWPA](): password length > 20 characters (WPA password cracking)
+* [Kaonashi](https://mega.nz/#!WXhSnYCC!vcp-UyvPuE42cffUTs_mQ4Hd4nYlrlIEfe0nkItE-pY) (9.08 GB)
+* [Kaonashi14M](https://mega.nz/#!abwXHC5R!KhRKNMRqG8CXFICJnFVP946HmRweO_A2lEF4QPvqOYk) (131.9 MB) top 14 million passwords (same size as RockYou.txt for comparation)
+* [KaonashiWPA100M](https://mega.nz/#!6TRUXYiZ!kx3nXzvwgNuyJCfc-RQr_SnXMN9WVaBgJCkAJ9lkViM) (1.03 GB) password length 8-63 characters (WPA password cracking)
 
 <br>
 
