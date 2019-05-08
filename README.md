@@ -29,9 +29,11 @@ These wordlist has been extracted from real password leaksa, and sorted by numbe
 
 For our study, we created the original wordlist and two additional ones:
 
-* [Kaonashi](https://mega.nz/#!WXhSnYCC!vcp-UyvPuE42cffUTs_mQ4Hd4nYlrlIEfe0nkItE-pY) (9.08 GB)
-* [Kaonashi14M](https://mega.nz/#!abwXHC5R!KhRKNMRqG8CXFICJnFVP946HmRweO_A2lEF4QPvqOYk) (131.9 MB) top 14 million passwords (same size as RockYou.txt for comparation)
-* [KaonashiWPA100M](https://mega.nz/#!6TRUXYiZ!kx3nXzvwgNuyJCfc-RQr_SnXMN9WVaBgJCkAJ9lkViM) (1.03 GB) password length 8-63 characters (WPA password cracking)
+* [Kaonashi](https://mega.nz/#!nWJXzYzS!P1G8HDiMxq5wFaxeWGWx334Wp9wByj5kMEGLZkVX694) (2.35 GB)
+* [Kaonashi14M](https://mega.nz/#!7fIlxQaC!BlrWduRgBwWH_Za9SoEJnnq7ySrV4E_NzfTtn_OI418) (47.7 MB)
+* [KaonashiWPA100M](https://mega.nz/#!jeRRgQgZ!xcRcLpm0ftuu7z7JN32LHMECqk9vmpVNH2JFVxSICfU) (323.9 MB)
+
+You can also find .torrent files inside wordlists/ directory
 
 <br>
 
