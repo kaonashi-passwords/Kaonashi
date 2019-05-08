@@ -36,8 +36,8 @@ For our study, we created the original wordlist and two additional ones:
 <br>
 
 ## Authors and Attributions
- * [Jaime Sánchez (@segofensiva)](https://www.seguridadofensiva.com)
- * [Pablo Caro (@pcaro90)](https://pcaro.es)
+ * [Jaime Sánchez](https://www.seguridadofensiva.com) [@segofensiva)](https://twitter.com/segofensiva)
+ * [Pablo Caro](https://pcaro.es) [(@pcaro90)](https://twitter.com/pcaro90)
  * Thanks to everyone in the password cracking scene for inspiration and lists
 
 ## Disclaimer and License
