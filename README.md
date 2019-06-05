@@ -10,7 +10,7 @@ This repository contains several directories: <br>
  * Sorted ***Masks*** for hashcat
  * Advanced ***Rules*** for hashcat
  * Links to download the Kaonishi's ***Wordlists***
- * ***Slides*** used in our talk [I know your p4$$w0rd (and if I don't, I will guess it...](https://www.slideshare.net/segofensiva/i-know-your-p4w0rd-and-if-i-dont-i-will-guess-it-139829304) at [RootedCON (2019)](https://rootedcon.com/) 
+ * ***Slides*** used in our talk [I know your p4$$w0rd (and if I don't, I will guess it...)](https://www.slideshare.net/segofensiva/i-know-your-p4w0rd-and-if-i-dont-i-will-guess-it-139829304) at [RootedCON (2019)](https://rootedcon.com/) 
 
 __*A clone may not be necessary to get the files you need*.__ <br>
 
@@ -25,7 +25,7 @@ In this study we processed several billions of real passwords in order to make a
 We used different methods, like behavioral and statistical analysis, neural networks and other advanced techniques, to obtain patterns and relevant information that allow us to crack hashes whose resistance is usually quite high.
 
 ## Kaonashi Wordlist
-These wordlist has been extracted from real password leaksa, and sorted by number of ocurrences. By having this wordlists sorted this way, users can extract TOP _n_ lines/passwords and create custom wordlists based on their needs.
+These wordlist has been extracted from real password leaksa, and sorted by number of ocurrences. By having these wordlists sorted this way, users can extract TOP _n_ lines/passwords and create custom wordlists based on their needs.
 
 For our study, we created the original wordlist and two additional ones:
 
@@ -45,7 +45,7 @@ You can also find .torrent files inside wordlists/ directory
 ## Disclaimer and License
  + These code and wordlists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
  + The files contained in this repository are released "as is" without warranty, support, or guarantee of effectiveness.
- + Ee are open to hearing about any issues found within these files and will be actively maintaining this repository for the foreseeable future. If you find anything noteworthy, let us know and we'll see what we can do about it.
+ + We are open to hearing about any issues found within these files and will be actively maintaining this repository for the foreseeable future. If you find anything noteworthy, let us know and we'll see what we can do about it.
 
 The authors did not steal, phish, deceive or hack in any way to get hold of these passwords.
 All lines in these files were obtained through freely available means.
